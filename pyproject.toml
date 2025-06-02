@@ -1,0 +1,7 @@
+[project]
+name = "gemini_chatbot"
+dependencies = [
+  "chainlit",
+  "google-generativeai",
+  "python-dotenv"
+]
