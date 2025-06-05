@@ -13,7 +13,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 
 # 🤖 Gemini Model
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash-latest",
+    model_name="gemini-2.0-flash",
     generation_config={
         "temperature": 0.9,
         "top_p": 1,

@@ -1,0 +1,12 @@
+{
+  "name": "hammad-bhai",
+  "version": "1.0.0",
+  "description": "CLI to launch HAMMAD BHAI AI chatbot instantly",
+  "bin": {
+    "hammad-bhai": "index.js"
+  },
+  "keywords": ["AI", "chatbot", "gemini", "chainlit", "hammad bhai"],
+  "author": "MUHAMMAD HAMMAD ZUBAIR",
+  "license": "MIT",
+  "dependencies": {}
+}
