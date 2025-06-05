@@ -1,6 +1,6 @@
 # 🤖 HAMMAD BHAI – Your Friendly AI Chatbot 🌍
 
-Welcome to **HAMMAD BHAI**, an open-source multilingual AI chatbot built using **Gemini 1.5 Flash** and **Chainlit**.  
+Welcome to **HAMMAD BHAI**, an open-source multilingual AI chatbot built using **Gemini 2.0 Flash** and **Chainlit**.  
 Created with ❤️ by **MUHAMMAD HAMMAD ZUBAIR**, this chatbot is designed to talk like your best friend — in any language, with full emoji support 😄🌐
 
 ---
@@ -11,7 +11,7 @@ Created with ❤️ by **MUHAMMAD HAMMAD ZUBAIR**, this chatbot is designed to t
 > Main unki ek creative creation hoon – yahan hoon sirf tumhari madad ke liye! 🪖"
 
 ✨ **Multilingual Responses** (Auto detects language)  
-✨ **Gemini 1.5 Flash** powered AI (Fast, smart, latest model)  
+✨ **Gemini 2.0 Flash** powered AI (Fast, smart, latest model)  
 ✨ **Emotional Replies** with Emojis 🥰  
 ✨ **Fully Open Source** – Use, Learn, Modify  
 ✨ **Built with Python + Chainlit + Google AI**  
