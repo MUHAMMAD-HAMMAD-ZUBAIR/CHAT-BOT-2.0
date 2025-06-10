@@ -1,9 +1,9 @@
 {
-  "name": "hammad-bhai",
+  "name": "chat-with-hammad",
   "version": "1.0.0",
   "description": "CLI to launch HAMMAD BHAI AI chatbot instantly",
   "bin": {
-    "hammad-bhai": "index.js"
+    "chat-with-hammad": "index.js"
   },
   "keywords": ["AI", "chatbot", "gemini", "chainlit", "hammad bhai"],
   "author": "MUHAMMAD HAMMAD ZUBAIR",
