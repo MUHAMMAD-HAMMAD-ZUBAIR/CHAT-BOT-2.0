@@ -41,7 +41,7 @@ project/
 ### 1) 🧪 Manual Setup Command (for devs)
 
 ```bash
-git clone https://github.com/MUHAMMAD-HAMMAD-ZUBAIR/CHAT-BOT-2.0.git && cd CHAT-BOT-2.0 && pip install -r requirements.txt && chainlit run app/main.py
+git clone https://github.com/MUHAMMAD-HAMMAD-ZUBAIR/CHAT-BOT-2.0.git && cd CHAT-BOT-2.0 && pip install -r requirements.txt && chainlit run main.py
 ```
 
 ### 2) 🪄 Simple One-Line Setup via NPX
