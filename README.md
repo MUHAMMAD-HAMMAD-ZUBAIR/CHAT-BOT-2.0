@@ -78,7 +78,7 @@ GOOGLE_API_KEY=your_real_google_api_key_here
 ### 4. ▶️ Run the Chatbot
 
 ```bash
-chainlit run app/main.py -w
+chainlit run main.py -w
 ```
 
 Open the localhost link to chat with **HAMMAD BHAI 🤖**.
