@@ -73,7 +73,7 @@ async def main_logic(message: cl.Message):
 async def start():
     await cl.Message(
         content=(
-            "👋 **Salaam!**\n"
+            "👋 **As-Salaam-u-Alaikum!**\n"
             "Main hoon **HAMMAD BHAI 🤖** — tumhara smart AI dost, banaya gaya 💡 "
             "*MUHAMMAD HAMMAD ZUBAIR* ke zariye.\n\n"
             "Kuch bhi poochho, main hamesha hoon tumhari madad ke liye 🫶"
