@@ -1,4 +1,4 @@
-# 👋 Welcome to HAMMAD BHAI 🤖 - Your Multilingual AI Assistant
+# 👋 Welcome to HAMMAD BHAI 🤖 - Your Friendly AI Assistant
 
 ---
 

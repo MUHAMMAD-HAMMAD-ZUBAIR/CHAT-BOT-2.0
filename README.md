@@ -41,7 +41,7 @@ project/
 ### 1) 🧪 Manual Setup Command (for devs)
 
 ```bash
-git clone https://github.com/MUHAMMAD-HAMMAD-ZUBAIR/CHAT-BOT-2.0.git && cd CHAT-BOT-2.0 && pip install -r requirements.txt && chainlit run app/main.py
+git clone https://github.com/MUHAMMAD-HAMMAD-ZUBAIR/CHAT-BOT-2.0.git && cd CHAT-BOT-2.0 && pip install -r requirements.txt && chainlit run main.py
 ```
 
 ### 2) 🪄 Simple One-Line Setup via NPX
@@ -78,7 +78,7 @@ GOOGLE_API_KEY=your_real_google_api_key_here
 ### 4. ▶️ Run the Chatbot
 
 ```bash
-chainlit run app/main.py -w
+chainlit run main.py -w
 ```
 
 Open the localhost link to chat with **HAMMAD BHAI 🤖**.
