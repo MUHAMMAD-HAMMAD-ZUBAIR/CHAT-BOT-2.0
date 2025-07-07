@@ -1,5 +1,5 @@
 chainlit>=1.7.0
-pydantic<2.0
+pydantic>=2.10
 python-dotenv
 google-generativeai
 langdetect
